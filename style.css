@@ -1,3 +1,18 @@
-* {
+body {
   font-family: 'Roboto Condensed', sans-serif;
+  /* background: linear-gradient(45deg, #000000, #282A3A, #52616B, #1E2022); */
+  background: #191919;
+  color: #FFFFFF
+}
+
+.yellow {
+  color: #afa240;
+}
+
+.decoration {
+  text-decoration: none;
+}
+
+img {
+  border-radius: 9999px!important;
 }
