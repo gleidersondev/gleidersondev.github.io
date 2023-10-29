@@ -1,8 +1,14 @@
+html,
 body {
-  font-family: 'Roboto Condensed', sans-serif;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  font-family: "Roboto Condensed", sans-serif;
   /* background: linear-gradient(45deg, #000000, #282A3A, #52616B, #1E2022); */
   background: #191919;
-  color: #FFFFFF
+  color: #ffffff;
 }
 
 .yellow {
@@ -14,5 +20,5 @@ body {
 }
 
 img {
-  border-radius: 9999px!important;
+  border-radius: 9999px !important;
 }
